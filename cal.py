@@ -8,6 +8,7 @@ def menu():
     print("4 - Divisão")
     print("5 - Sair")
     print("=======================")
+    print("Escolha uma operação:")
 # code para calcular a soma, subtração, multiplicação e divisão de dois números
 def calculadora():
     while True:
